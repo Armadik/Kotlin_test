@@ -17,7 +17,7 @@ fun test2(args: Array<String>) {
 fun main(args: String) {
 
     val a: String = "rax1"
-
+    var a1: Byte = 12
     var b2: Short = 11
     val b: Int = 3
     val c: Long = 3
