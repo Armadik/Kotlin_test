@@ -12,6 +12,4 @@ fun main(args: Array<String>) {
 
     var name: String = "raz"
     val name2: String = "raz"
-
-
 }
