@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
     val name = "Alex"
-    val a: Int = 1
-    val b: Int = 3
+    val a = 1
+    val b = 3
     println("Hello $name")
     println(a + b)
 }
