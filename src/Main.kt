@@ -5,11 +5,24 @@ fun test(args: String) {
     println(a + b)
 }
 
-fun main(args: Array<String>) {
+fun test2(args: Array<String>) {
     val userKotlin = UserKotlin("test@test.ru")
     println(userKotlin.email)
     println(test("test_param"))
 
     var name: String = "raz"
     val name2: String = "raz"
+}
+
+fun main(args: String) {
+
+    val a: String = "rax1"
+
+    var b2: Short = 11
+    val b: Int = 3
+    val c: Long = 3
+    //
+    val d: Double = 1.23
+    val f: Float = 1.23F
+
 }
