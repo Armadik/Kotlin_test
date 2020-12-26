@@ -14,8 +14,7 @@ fun test2(args: Array<String>) {
     val name2: String = "raz"
 }
 
-fun main(args: String) {
-
+fun main() {
     val a: String = "rax1"
     var a1: Byte = 12
     var b2: Short = 11
@@ -24,5 +23,8 @@ fun main(args: String) {
     //
     val d: Double = 1.23
     val f: Float = 1.23F
-
+    //
+    var b1: Long = b.toLong()
+    var c1: Char = 'a'
+    var c3: Boolean = true
 }
